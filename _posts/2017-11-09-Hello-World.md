@@ -3,7 +3,7 @@ layout: post
 title: Hello World and Powershell syntax test
 ---
 
-Test code below:
+Code block:
 
 ```powershell
 $var = Read-Host "Enter your name: "

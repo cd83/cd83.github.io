@@ -5,6 +5,8 @@ title: Hello World and Powershell syntax test
 
 ```powershell
 
-Write-Output "Hello World"
+$var = Read-Host
+
+Write-Output "Hello $var"
 
 ```

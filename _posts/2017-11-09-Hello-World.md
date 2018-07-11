@@ -1,14 +1,7 @@
 ---
 layout: post
-title: Hello World and Powershell syntax test
+title: Links
 ---
 
-Code block:
-```powershell
-$var = Read-Host "Enter your name: "
-Write-Output "Hello $var"
-```
-New line.
-
-
-End of post.
+Kubernetes:
+https://www.katacoda.com/courses/kubernetes

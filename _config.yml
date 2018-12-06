@@ -6,7 +6,7 @@
 name: Chris Lee
 
 # Short bio or description (displayed in the header)
-description: DevOps & Dungeons & Dragons
+description: Dad of 3, Lifelong Nerd, Devops Guy, 5e Dungeon Master
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/cd83/cd83.github.io/master/images/d1.png
@@ -18,12 +18,12 @@ avatar: https://raw.githubusercontent.com/cd83/cd83.github.io/master/images/d1.p
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: chrisdlee@gmail.com
   facebook:
   flickr:
   github: cd83
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/christofferdlee/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: _cd83

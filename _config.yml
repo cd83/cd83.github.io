@@ -15,7 +15,7 @@ avatar: https://raw.githubusercontent.com/cd83/cd83.github.io/master/images/d1.p
 # Flags below are optional
 #
 
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-hacker
 
 # Includes an icon in the footer for each username you enter
 footer-links:

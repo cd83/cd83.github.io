@@ -25,7 +25,10 @@
         <nav>
           <a href="{{ site.baseurl }}/">Blog</a>
           <a href="{{ site.baseurl }}/about">About</a>
-          {% include svg-icons.html %}
+          <a href="https://github.com/{{ site.footer-links.github }}"><i class="svg-icon github"></i></a>
+          <a href="https://www.twitter.com/{{ site.footer-links.twitter }}"><i class="svg-icon twitter"></i></a>
+          <a href="https://www.linkedin.com/in/{{ site.footer-links.linkedin }}"><i class="svg-icon linkedin"></i></a>
+          <a href="mailto:{{ site.footer-links.email }}"><i class="svg-icon email"></i></a>
         </nav>
       </div>
     </header>

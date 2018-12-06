@@ -16,6 +16,7 @@ avatar: https://raw.githubusercontent.com/cd83/cd83.github.io/master/images/d1.p
 #
 
 theme: jekyll-theme-hacker
+repository: cd83
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -25,7 +26,7 @@ footer-links:
   flickr:
   github: cd83
   instagram:
-  linkedin: https://www.linkedin.com/in/christofferdlee/
+  linkedin: christofferdlee
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: _cd83

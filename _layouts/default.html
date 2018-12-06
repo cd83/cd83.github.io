@@ -15,21 +15,15 @@
       <div class="container">
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <!-- <h2>{{ site.description | default: site.github.project_tagline }}</h2> -->
-        <section id="downloads">
-          {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
-            <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
-          {% endif %}
-          <!-- <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a> -->
-        </section>
         <nav>
           <a href="{{ site.baseurl }}/">Blog</a>
           <a href="{{ site.baseurl }}/about">About</a>
-          <a href="https://github.com/{{ site.footer-links.github }}"><i class="svg-icon github"></i></a>
+          <a href="https://github.com/{{ site.footer-links.github }}">Github<i class="svg-icon github"></i></a>
           <a href="https://www.twitter.com/{{ site.footer-links.twitter }}"><i class="svg-icon twitter"></i></a>
           <a href="https://www.linkedin.com/in/{{ site.footer-links.linkedin }}"><i class="svg-icon linkedin"></i></a>
           <a href="mailto:{{ site.footer-links.email }}"><i class="svg-icon email"></i></a>
         </nav>
+        {% include svg-icons.html %}
       </div>
     </header>
 

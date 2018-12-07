@@ -6,7 +6,7 @@ permalink: /resume/
 
 >$ whoami
 >
->My name is Chris Lee and I am a DevOps Engineer with a passion for infrastructure, containerization, and automation. I'm a Windows / Powershell guy but can Linux and Bash script just the same. My current focus is Azure Kubernetes Service (AKS).
+>My name is Chris Lee and I am a DevOps Engineer with a passion for containerization, automation, and Infrastructure as Code. I'm a Windows / Powershell guy but can Linux and Bash script just the same. My current focus is Azure Kubernetes Service (AKS).
 >
 >I believe that collaboration and communication are the keys to success across an organization. I continually strive to learn new technologies and work with team members to facilitate understanding between roles.
 

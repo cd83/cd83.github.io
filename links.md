@@ -9,9 +9,8 @@ permalink: /links/
 * [The Illustrated Children's Guide to Kubernetes](https://www.youtube.com/watch?v=4ht22ReBjno)
 * [Kubedex - Popular apps for k8s](https://kubedex.com/)
 
-### IaC
-* ARM
-  * [Visualizing ARM Templates with ARMVIZ](http://armviz.io/designer)
+### ARM:
+* [Visualizing ARM Templates with ARMVIZ](http://armviz.io/designer)
 
 ### CI/CD:
 * Drone

@@ -22,7 +22,7 @@ I believe that collaboration and communication are the keys to success across an
   * Providing guidance and support for Azure adoption across the enterprise.
   * Developing SOP's for PCI and NIST compliance.
 
-### DevOps Engineer LeanKit | **LLC / Planview** | *May 2015 – July 2018*
+### DevOps Engineer | **LeanKit LLC / Planview** | *May 2015 – July 2018*
 * Infrastructure as Code with Azure Resource Manager, Puppet, and Windows Powershell Desired State Configuration (DSC) templates.
 * Continuously delivery with Docker, Rancher, and Octopus Deploy.
 * Monitoring and Alerting with Sumo Logic, New Relic, Pingdom, and Ops Genie.

@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
 {% seo %}
+{% if site.tags != "" %}
+  {% include collecttags.html %}
+{% endif %}
   </head>
 
   <body>
@@ -17,8 +20,7 @@
         <h2>{{ site.description }}</h2>
         <nav>
           <a href="{{ site.baseurl }}/">Posts</a>
-          <a href="{{ site.baseurl }}/about">About</a>
-          <a href="{{ site.baseurl }}/links">Links</a>
+          <a href="{{ site.baseurl }}/about">About / Contact Me</a>
         </nav>
       </div>
     </header>

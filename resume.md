@@ -4,8 +4,6 @@ title: Resume
 permalink: /resume/
 ---
 
-# Resume
-
 ## Chris Lee / [chrisdlee@gmail.com](mailto:chrisdlee@gmail.com) / 615-947-7850
 
 I am a DevOps Engineer with a passion for containerization, automation, and Infrastructure as Code. I'm a Windows / Powershell guy but can Linux and Bash script just the same. My current focus is Azure DevOps Projects (CI/CD Pipelines), Terraform, and Azure Kubernetes Service (AKS).
